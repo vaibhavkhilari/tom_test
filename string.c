@@ -26,4 +26,5 @@ int main(void)
    echo "Hi i am vaibhav khilari"
    return 0;
    echo "Hello how are you"
+   echo "New changes has been added"
 }
