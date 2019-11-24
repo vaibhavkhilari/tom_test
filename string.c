@@ -22,6 +22,6 @@ int main(void)
    for (i = 0; i < 2; ++i)
       
    printf("string lenght of %s = %d\n", s[i], my_strlen(s[i]));
-
+   echo "Hi i am vaibhav khilari"
    return 0;
 }
